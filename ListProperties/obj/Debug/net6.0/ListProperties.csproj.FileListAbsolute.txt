@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\ListProperties\ListProperties\bin\Debug\net6.0\ListProperties.exe
+C:\Users\Pavani\source\repos\ListProperties\ListProperties\bin\Debug\net6.0\ListProperties.deps.json
+C:\Users\Pavani\source\repos\ListProperties\ListProperties\bin\Debug\net6.0\ListProperties.runtimeconfig.json
+C:\Users\Pavani\source\repos\ListProperties\ListProperties\bin\Debug\net6.0\ListProperties.dll
+C:\Users\Pavani\source\repos\ListProperties\ListProperties\bin\Debug\net6.0\ref\ListProperties.dll
+C:\Users\Pavani\source\repos\ListProperties\ListProperties\bin\Debug\net6.0\ListProperties.pdb
+C:\Users\Pavani\source\repos\ListProperties\ListProperties\obj\Debug\net6.0\ListProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\ListProperties\ListProperties\obj\Debug\net6.0\ListProperties.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\ListProperties\ListProperties\obj\Debug\net6.0\ListProperties.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\ListProperties\ListProperties\obj\Debug\net6.0\ListProperties.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\ListProperties\ListProperties\obj\Debug\net6.0\ListProperties.dll
+C:\Users\Pavani\source\repos\ListProperties\ListProperties\obj\Debug\net6.0\ref\ListProperties.dll
+C:\Users\Pavani\source\repos\ListProperties\ListProperties\obj\Debug\net6.0\ListProperties.pdb
+C:\Users\Pavani\source\repos\ListProperties\ListProperties\obj\Debug\net6.0\ListProperties.genruntimeconfig.cache
